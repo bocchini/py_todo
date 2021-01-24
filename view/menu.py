@@ -1,0 +1,10 @@
+def start_screen():
+    print('*' * 100)
+    print('*' * 40, '-' * 5, ' Menu ', '-' * 5, '*' * 40)
+    print('*' * 100)
+    print('Para adicionar uma tarefa digite: a')
+    print('Para listar as tarefas digite: l')
+    print('Para desfazer uma tarefa digite: d')
+    print('Para refazer uma tarefa digite: r')
+    print('Para sair digite s')
+    print('*' * 100)
